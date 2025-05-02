@@ -1,6 +1,7 @@
 import {cart} from '../data/cart.js';
 import { products} from '../data/products.js';
 // continuar desde aqui..............
+// ............
 
 
 cart.forEach((cartItem)=>{
